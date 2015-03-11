@@ -1,16 +1,8 @@
 {
 	"1": [
 		{
-			"name": "Iquique",
-			"comuna_id": "1101"
-		},
-		{
 			"name": "Alto Hospicio",
 			"comuna_id": "1107"
-		},
-		{
-			"name": "Pozo Almonte",
-			"comuna_id": "1401"
 		},
 		{
 			"name": "Camiña",
@@ -25,8 +17,16 @@
 			"comuna_id": "1404"
 		},
 		{
+			"name": "Iquique",
+			"comuna_id": "1101"
+		},
+		{
 			"name": "Pica",
 			"comuna_id": "1405"
+		},
+		{
+			"name": "Pozo Almonte",
+			"comuna_id": "1401"
 		}
 	],
 	"2": [
@@ -35,20 +35,16 @@
 			"comuna_id": "2101"
 		},
 		{
-			"name": "Mejillones",
-			"comuna_id": "2102"
-		},
-		{
-			"name": "Sierra Gorda",
-			"comuna_id": "2103"
-		},
-		{
-			"name": "Taltal",
-			"comuna_id": "2104"
-		},
-		{
 			"name": "Calama",
 			"comuna_id": "2201"
+		},
+		{
+			"name": "María Elena",
+			"comuna_id": "2302"
+		},
+		{
+			"name": "Mejillones",
+			"comuna_id": "2102"
 		},
 		{
 			"name": "Ollagüe",
@@ -59,42 +55,38 @@
 			"comuna_id": "2203"
 		},
 		{
-			"name": "Tocopilla",
-			"comuna_id": "2301"
+			"name": "Sierra Gorda",
+			"comuna_id": "2103"
 		},
 		{
-			"name": "María Elena",
-			"comuna_id": "2302"
+			"name": "Taltal",
+			"comuna_id": "2104"
+		},
+		{
+			"name": "Tocopilla",
+			"comuna_id": "2301"
 		}
 	],
 	"3": [
 		{
-			"name": "Copiapó",
-			"comuna_id": "3101"
+			"name": "Alto del Carmen",
+			"comuna_id": "3302"
 		},
 		{
 			"name": "Caldera",
 			"comuna_id": "3102"
 		},
 		{
-			"name": "Tierra Amarilla",
-			"comuna_id": "3103"
-		},
-		{
 			"name": "Chañaral",
 			"comuna_id": "3201"
 		},
 		{
+			"name": "Copiapó",
+			"comuna_id": "3101"
+		},
+		{
 			"name": "Diego de Almagro",
 			"comuna_id": "3202"
-		},
-		{
-			"name": "Vallenar",
-			"comuna_id": "3301"
-		},
-		{
-			"name": "Alto del Carmen",
-			"comuna_id": "3302"
 		},
 		{
 			"name": "Freirina",
@@ -103,170 +95,106 @@
 		{
 			"name": "Huasco",
 			"comuna_id": "3304"
+		},
+		{
+			"name": "Tierra Amarilla",
+			"comuna_id": "3103"
+		},
+		{
+			"name": "Vallenar",
+			"comuna_id": "3301"
 		}
 	],
 	"4": [
 		{
-			"name": "La Serena",
-			"comuna_id": "4101"
-		},
-		{
-			"name": "Coquimbo",
-			"comuna_id": "4102"
-		},
-		{
 			"name": "Andacollo",
 			"comuna_id": "4103"
-		},
-		{
-			"name": "La Higuera",
-			"comuna_id": "4104"
-		},
-		{
-			"name": "Paihuano",
-			"comuna_id": "4105"
-		},
-		{
-			"name": "Vicuña",
-			"comuna_id": "4106"
-		},
-		{
-			"name": "Illapel",
-			"comuna_id": "4201"
 		},
 		{
 			"name": "Canela",
 			"comuna_id": "4202"
 		},
 		{
-			"name": "Los Vilos",
-			"comuna_id": "4203"
-		},
-		{
-			"name": "Salamanca",
-			"comuna_id": "4204"
-		},
-		{
-			"name": "Ovalle",
-			"comuna_id": "4301"
-		},
-		{
 			"name": "Combarbalá",
 			"comuna_id": "4302"
+		},
+		{
+			"name": "Coquimbo",
+			"comuna_id": "4102"
+		},
+		{
+			"name": "La Higuera",
+			"comuna_id": "4104"
+		},
+		{
+			"name": "Illapel",
+			"comuna_id": "4201"
+		},
+		{
+			"name": "La Serena",
+			"comuna_id": "4101"
+		},
+		{
+			"name": "Los Vilos",
+			"comuna_id": "4203"
 		},
 		{
 			"name": "Monte Patria",
 			"comuna_id": "4303"
 		},
 		{
+			"name": "Ovalle",
+			"comuna_id": "4301"
+		},
+		{
+			"name": "Paihuano",
+			"comuna_id": "4105"
+		},
+		{
 			"name": "Punitaqui",
 			"comuna_id": "4304"
 		},
-		{
+				{
 			"name": "Río Hurtado",
 			"comuna_id": "4305"
+		},
+		{
+			"name": "Salamanca",
+			"comuna_id": "4204"
+		},
+		{
+			"name": "Vicuña",
+			"comuna_id": "4106"
 		}
 	],
 	"5": [
 		{
-			"name": "Valparaíso",
-			"comuna_id": "5101"
-		},
-		{
-			"name": "Casablanca",
-			"comuna_id": "5102"
-		},
-		{
-			"name": "Concón",
-			"comuna_id": "5103"
-		},
-		{
-			"name": "Juan Fernández",
-			"comuna_id": "5104"
-		},
-		{
-			"name": "Puchuncaví",
-			"comuna_id": "5105"
-		},
-		{
-			"name": "Quintero",
-			"comuna_id": "5107"
-		},
-		{
-			"name": "Viña del Mar",
-			"comuna_id": "5109"
-		},
-		{
-			"name": "Isla de Pascua",
-			"comuna_id": "5201"
-		},
-		{
-			"name": "Los Andes",
-			"comuna_id": "5301"
-		},
-		{
-			"name": "Calle Larga",
-			"comuna_id": "5302"
-		},
-		{
-			"name": "Rinconada",
-			"comuna_id": "5303"
-		},
-		{
-			"name": "San Esteban",
-			"comuna_id": "5304"
-		},
-		{
-			"name": "La Ligua",
-			"comuna_id": "5401"
+			"name": "Algarrobo",
+			"comuna_id": "5602"
 		},
 		{
 			"name": "Cabildo",
 			"comuna_id": "5402"
 		},
 		{
-			"name": "Papudo",
-			"comuna_id": "5403"
-		},
-		{
-			"name": "Petorca",
-			"comuna_id": "5404"
-		},
-		{
-			"name": "Zapallar",
-			"comuna_id": "5405"
-		},
-		{
-			"name": "Quillota",
-			"comuna_id": "5501"
-		},
-		{
-			"name": "La Calera",
-			"comuna_id": "5502"
-		},
-		{
-			"name": "Hijuelas",
-			"comuna_id": "5503"
-		},
-		{
-			"name": "La Cruz",
-			"comuna_id": "5504"
-		},
-		{
-			"name": "Nogales",
-			"comuna_id": "5506"
-		},
-		{
-			"name": "San Antonio",
-			"comuna_id": "5601"
-		},
-		{
-			"name": "Algarrobo",
-			"comuna_id": "5602"
+			"name": "Casablanca",
+			"comuna_id": "5102"
 		},
 		{
 			"name": "Cartagena",
 			"comuna_id": "5603"
+		},
+		{
+			"name": "Calle Larga",
+			"comuna_id": "5302"
+		},
+		{
+			"name": "Catemu",
+			"comuna_id": "5702"
+		},
+		{
+			"name": "Concón",
+			"comuna_id": "5103"
 		},
 		{
 			"name": "El Quisco",
@@ -277,48 +205,120 @@
 			"comuna_id": "5605"
 		},
 		{
-			"name": "Santo Domingo",
-			"comuna_id": "5606"
+			"name": "Hijuelas",
+			"comuna_id": "5503"
 		},
 		{
-			"name": "San Felipe",
-			"comuna_id": "5701"
+			"name": "Isla de Pascua",
+			"comuna_id": "5201"
 		},
 		{
-			"name": "Catemu",
-			"comuna_id": "5702"
+			"name": "Juan Fernández",
+			"comuna_id": "5104"
 		},
 		{
-			"name": "Llay Llay",
-			"comuna_id": "5703"
+			"name": "La Calera",
+			"comuna_id": "5502"
 		},
 		{
-			"name": "Panquehue",
-			"comuna_id": "5704"
+			"name": "La Cruz",
+			"comuna_id": "5504"
 		},
 		{
-			"name": "Putaendo",
-			"comuna_id": "5705"
-		},
-		{
-			"name": "Santa María",
-			"comuna_id": "5706"
-		},
-		{
-			"name": "Quilpué",
-			"comuna_id": "5801"
+			"name": "La Ligua",
+			"comuna_id": "5401"
 		},
 		{
 			"name": "Limache",
 			"comuna_id": "5802"
 		},
 		{
+			"name": "Llay Llay",
+			"comuna_id": "5703"
+		},
+		{
+			"name": "Los Andes",
+			"comuna_id": "5301"
+		},
+		{
+			"name": "Nogales",
+			"comuna_id": "5506"
+		},
+		{
 			"name": "Olmué",
 			"comuna_id": "5803"
 		},
 		{
+			"name": "Papudo",
+			"comuna_id": "5403"
+		},
+		{
+			"name": "Panquehue",
+			"comuna_id": "5704"
+		},
+		{
+			"name": "Petorca",
+			"comuna_id": "5404"
+		},
+		{
+			"name": "Puchuncaví",
+			"comuna_id": "5105"
+		},
+		{
+			"name": "Putaendo",
+			"comuna_id": "5705"
+		},
+		{
+			"name": "Quillota",
+			"comuna_id": "5501"
+		},
+		{
+			"name": "Quintero",
+			"comuna_id": "5107"
+		},
+		{
+			"name": "Quilpué",
+			"comuna_id": "5801"
+		},
+		{
+			"name": "Rinconada",
+			"comuna_id": "5303"
+		},
+		{
+			"name": "San Antonio",
+			"comuna_id": "5601"
+		},
+		{
+			"name": "San Esteban",
+			"comuna_id": "5304"
+		},
+		{
+			"name": "San Felipe",
+			"comuna_id": "5701"
+		},
+		{
+			"name": "Santa María",
+			"comuna_id": "5706"
+		},
+		{
+			"name": "Santo Domingo",
+			"comuna_id": "5606"
+		},
+		{
+			"name": "Valparaíso",
+			"comuna_id": "5101"
+		},		
+		{
 			"name": "Villa Alemana",
 			"comuna_id": "5804"
+		},
+		{
+			"name": "Viña del Mar",
+			"comuna_id": "5109"
+		},
+		{
+			"name": "Zapallar",
+			"comuna_id": "5405"
 		}
 	],
 	"6": [
