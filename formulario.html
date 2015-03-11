@@ -1,0 +1,40 @@
+
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script>
+
+function comunaRegion(idRegion){ 
+$.getJSON( "CL_ComunaRegion.json", function( data ) { 
+var items = []; $.each(data, function( key, val ) { if(key == idRegion){ 
+$.each(val, function( key2, val2 ) { 
+
+items.push( "<option value='" + val2["comuna_id"] + "'>" + val2["name"] + "</option>" ); 
+}); } }); 
+$('#comuna').remove();
+$( "<select />", { "class": "comuna", "name": "comuna","id":"comuna", html: items.join( "" ) }).appendTo( "#comunasTotal" ); }); 
+}
+</script>
+</head>
+<body>
+<select id="region" class="region" name="region" onChange="comunaRegion($('#region').val());">
+	<option value="0">Seleccione Regi&oacute;n</option>
+	<option value="1">Tarapac&aacute;</option>
+	<option value="2">Antofagasta</option>
+	<option value="3">Atacama</option>
+	<option value="4">Coquimbo</option>
+	<option value="5">Valpara&iacute;so</option>
+	<option value="6">Regi&oacute;n del Libertador Gral. Bernardo OHiggins</option>
+	<option value="7">Regi&oacute;n del Maule</option>
+	<option value="8">Regi&oacute;n del Biob&iacute;­o</option>
+	<option value="9">Regi&oacute;n de la Araucani­a</option>
+	<option value="10">Regi&oacute;n de Los Lagos</option>
+	<option value="11">Regi&oacute;n Ais&eacute;n del Gral. Carlos Ib&aacute;ñez del Campo</option>
+	<option value="12">Regi&oacute;n de Magallanes y de la Ant&aacute;rtica Chilena</option>
+	<option value="13">Regi&oacute;n Metropolitana de Santiago</option>
+	<option value="14">Regi&oacute;n de Los R&iacute;os</option>
+	<option value="15">Arica y Parinacota</option>
+</select>
+<div id="comunasTotal"></div>
+</body>
+</html>
